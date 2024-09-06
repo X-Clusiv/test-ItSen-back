@@ -14,6 +14,7 @@ dist-ssr
 coverage
 *.local
 /uploads/*
+!uploads/._
 /public/*
 /cypress/videos/
 /cypress/screenshots/
